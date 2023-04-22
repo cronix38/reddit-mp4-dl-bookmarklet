@@ -1,5 +1,5 @@
 # reddit-mp4-dl-bookmarklet
-Bookmarklet to download mp4 videos from reddit
+Bookmarklet to download mp4 videos from reddit but doesn't include the audio :(
 
 Highlight the following code and drop it onto your bookmark bar to save it as a bookmarklet.
 Then click on the bookmarklet while on a Reddit page containing a video to download the video
